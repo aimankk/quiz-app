@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+p:hover{
+    background-color: grey;
+    color: #FFFF;
+}
+.active{
+    background-color: rgb(0, 110, 255);
+    color: #FFFF;
+    font-family: 'Courier New', Courier, monospace;
+}
+
